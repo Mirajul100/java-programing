@@ -18,7 +18,7 @@ public class ArrayFuntion {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int a;
-        System.out.print("Enter the arrat size : ");
+        System.out.print("Enter the array size : ");
         a = input.nextInt();
         arrayprint(a);
 
